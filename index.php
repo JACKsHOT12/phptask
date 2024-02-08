@@ -6,19 +6,19 @@
     <title>Jacks page for the beaches</title>
     <style>
         body {
-            background-color: #000;
+            background-color: #964B00;
             color: #FFA500;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #ff0000;
+            background-color: #964B00;
             padding: 20px;
             text-align: center;
         }
         nav {
-            background-color: #000;
+            background-color: #964B00;
             text-align: center;
             padding: 10px 0;
         }
