@@ -59,7 +59,7 @@
         <p>Cheers!</p>
     </div>
     <footer>
-        <p>&copy; <%= DateTime.Now.Year %> Orange and Black Theme</p>
+        <p>&copy; <?php echo date("Y"); ?> Orange and Black Theme</p>
     </footer>
 </body>
 </html>
